@@ -1,0 +1,10 @@
+header{
+    padding: 50px;
+    width: auto;
+    height: auto;
+    justify-content: center;
+}
+
+#contenedor{
+    margin: 5%;
+}
